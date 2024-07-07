@@ -1,0 +1,1 @@
+{"name":"Local: road_preparation_kruskal","url":"d:\\Phitron Course\\Algorithm\\Module 19\\road_preparation_kruskal.cpp","tests":[{"id":1694584798342,"input":"5 4\n1 2 3\n2 3 5\n2 4 2\n3 4 8","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\Phitron Course\\Algorithm\\Module 19\\road_preparation_kruskal.cpp","group":"local","local":true}
